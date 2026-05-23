@@ -1,0 +1,48 @@
+# AI Caption Prompt
+
+You are a social media caption expert. Write a compelling [PLATFORM] caption based on the following content:
+
+## SOURCE CONTENT:
+[CUT AND PASTE YOUR NUGGET, TRANSCRIPT EXCERPT, OR KEY INSIGHT HERE]
+
+## CAPTION REQUIREMENTS:
+- Platform: [Instagram/TikTok/LinkedIn/Twitter]
+- Target audience: [DESCRIBE YOUR AUDIENCE]
+- Tone: [Professional/Educational/Entertaining/Conversational]
+- Length: [SHORT (under 125 chars) / MEDIUM (125-300) / LONG (300+)]
+- Include a clear call-to-action
+- Use formatting: line breaks, emojis, and emphasis where appropriate
+- Include 3-5 relevant hashtags at the end
+
+## CAPTION STYLE:
+[PREFERRED STYLE - e.g., "conversational like talking to a friend", "authoritative like a mentor", "casual like texting a colleague"]
+
+## OUTPUT FORMAT:
+Caption text
+---
+CTA: [specific call to action]
+Hashtags: [formatted as #Keyword or on separate lines]
+
+---
+
+## Platform-Specific Tips:
+
+**Instagram:**
+- First 125 characters are crucial (show before "more" link)
+- Use line breaks for readability
+- Add 1-2 emojis strategically
+
+**LinkedIn:**
+- Professional but conversational tone
+- Add value, avoid clickbait
+- End with a question to drive engagement
+
+**TikTok:**
+- Keep it under 150 characters
+- Start with a hook in the first line
+- No external links allowed in caption
+
+**Twitter/X:**
+- Max 280 characters
+- One main idea per tweet
+- Punchy and direct

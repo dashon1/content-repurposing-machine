@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+*.icloud
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

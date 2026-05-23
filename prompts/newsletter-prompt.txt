@@ -1,0 +1,32 @@
+# Email Newsletter Template
+
+Write a newsletter introducing [TOPIC] to [AUDIENCE]
+
+## Newsletter Structure:
+
+**SUBJECT LINE OPTIONS:**
+[Generate 3 options: question, stat-based, curiosity]
+
+**PREVIEW TEXT:**
+[One sentence that makes them want to open]
+
+**GREETING**
+[Personal opener - reference something relevant]
+
+**HOOK PARAGRAPH**
+[Why you're writing this - connect to reader's situation]
+
+**MAIN CONTENT**
+[Your key insight, lesson, or story]
+
+**KEY TAKEAWAY**
+[One sentence that summarizes the main point]
+
+**CALL TO ACTION**
+[What you want them to do - respond, click, share]
+
+**SIGN OFF**
+[Casual sign-off + brief bio]
+
+**P.S.**
+[Secondary offer or ask]

@@ -1,0 +1,45 @@
+# Hook Rewrite Prompt
+
+Generate 10 different opening hooks for a piece of content about: [INSERT YOUR MAIN TOPIC OR NUGGET]
+
+For each hook, use a different technique from this list:
+
+## 10 Hook Techniques:
+
+1. **Pattern Interrupt** - Something unexpected that breaks the pattern
+2. **Question** - Ask something that makes them think
+3. **Bold Statement** - Make a controversial claim
+4. **Story Start** - Begin with a scene or moment
+5. **Stat/Fact** - Lead with surprising data
+6. **"Nobody talks about"** - Reveal a hidden truth
+7. **Contrast** - Show before/after or problem/solution
+8. **Direct Address** - Talk directly to the reader
+9. **Stakes** - Show what they might lose
+10. **Curiosity Gap** - Leave them wanting more
+
+## OUTPUT FORMAT:
+
+1. [Technique Name]: [Hook text]
+   Why it works: [Brief explanation]
+
+2. [Technique Name]: [Hook text]
+   Why it works: [Brief explanation]
+... (continue for all 10)
+
+Keep each hook under 15 words. Make them scroll-stopping.
+
+---
+
+## Example Hooks:
+
+**Question Hook:**
+"I used to spend 40 hours creating content every week. Does that sound familiar?"
+
+**Bold Statement:**
+"Most content creators are doing it completely wrong. Here's why."
+
+**Stat Hook:**
+"93% of content gets zero engagement. The reason might surprise you."
+
+**Story Hook:**
+"It was 11 PM on a Sunday night. I was staring at a blank screen, again."

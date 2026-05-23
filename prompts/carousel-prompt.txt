@@ -1,0 +1,34 @@
+# Carousel Outline Template
+
+Create a 10-slide carousel outline about: [INSERT YOUR MAIN TOPIC]
+
+## Carousel Structure:
+
+**Slide 1: Hook** - Start with a bold statement or question
+**Slide 2: Tease** - Preview what's coming
+**Slide 3: Setup** - Establish the problem or context
+**Slides 4-8: Content** - Deliver your main points (1 per slide)
+**Slide 9: Call to Action** - What should they do next?
+**Slide 10: Bio** - Profile info + secondary CTA
+
+## OUTPUT FORMAT:
+
+Slide 1: [Hook text]
+Slide 2: [Tease text]
+Slide 3: [Setup text]
+Slide 4: [Point 1 - headline only]
+Slide 5: [Point 2 - headline only]
+Slide 6: [Point 3 - headline only]
+Slide 7: [Point 4 - headline only]
+Slide 8: [Point 5 - headline only]
+Slide 9: [CTA text]
+Slide 10: [Bio + Secondary CTA]
+
+---
+
+## Design Tips:
+- Each slide = ONE idea
+- 3-5 words max per point
+- Include visuals/icons to break up text
+- Slide 1 stops the scroll
+- Slide 10 drives action

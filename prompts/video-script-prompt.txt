@@ -1,0 +1,33 @@
+# Short Video Script Template
+
+Write a compelling [30/60/90] second video script about: [INSERT YOUR TOPIC]
+
+## Script Structure:
+
+**HOOK (0-3 sec)**
+One sentence that makes them stop scrolling.
+Try: "The #1 mistake [audience] make...", "I spent $X learning this...", or a direct question
+
+**CONTEXT (3-10 sec)**
+Give just enough background so they understand the value.
+
+**MAIN POINT (10-50 sec)**
+Deliver your insight, tip, or story. Keep it conversational.
+
+**CALL TO ACTION (50-60 sec)**
+Follow for more? Comment your question? Link in bio?
+
+## OUTPUT FORMAT:
+[HOOK]
+[CONTEXT]
+[MAIN POINT]
+[CTA]
+
+---
+
+## Technical Notes:
+- Look at camera (or slightly off-center)
+- Speak clearly, slightly slower than normal
+- Use natural hand gestures
+- Smile at start and end
+- Do 3-5 takes - the first is always stiff
