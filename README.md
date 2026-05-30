@@ -1,71 +1,104 @@
-# The 90-Minute Content Repurposing Machine
+# The Content Repurposing Machine
 
-**Turn One Video, Post, or Idea Into 20 Pieces of Content in 90 Minutes**
-
----
-
-## Product Files
-
-- **PDF Guide** (`The-90-Minute-Content-Repurposing-Machine.pdf`) - The main 15-page digital product
-- **Landing Page** (`index.html`) - A professional sales page for selling your product
-- **Hero Video** (`videos/hero_loop.mp4`) - Cinematic background for the landing page
-- **AI Prompts** (`prompts/`) - Ready-to-use prompt files for content creation
+**Turn 1 Piece of Content Into 10 — in 90 Minutes or Less**
 
 ---
 
-## What's Inside the PDF
+## What This Is
 
-1. **Content Repurposing Map** - Visual guide for extracting 20+ assets from one source
-2. **Long-Form to Short-Form Workflow** - 4-step extraction process
-3. **AI Caption Prompt** - Master prompt for generating platform-optimized captions
-4. **Hook Rewrite Prompt** - Generate 10 different opening hooks
-5. **Carousel Outline Template** - 10-slide framework for educational carousels
-6. **Email Newsletter Template** - Turn content into weekly emails
-7. **Short Video Script Template** - 30-60 second script framework
-8. **Platform Posting Checklist** - Step-by-step guides for Instagram, TikTok, LinkedIn, Twitter
-9. **Content Tracker** - Weekly worksheet for tracking output
-10. **90-Minute Execution Schedule** - Minute-by-minute timeline
+Most content creators produce content the hard way: they come up with an idea for Instagram, then a separate idea for a newsletter, then a different idea for a video script. They spend more time generating topics than they spend creating. The result is inconsistent output and a content calendar that is always one missed week away from going dark.
+
+The Content Repurposing Machine flips this process. You start with one strong idea — a video, a podcast excerpt, a tweet thread, a blog section, a client insight — and systematically extract 10 different pieces of content from it, each optimized for a different platform and format.
+
+Same core idea. Ten different outputs. One 90-minute session.
+
+---
+
+## What's Included
+
+### Core PDF Guide
+`The-90-Minute-Content-Repurposing-Machine.pdf`
+
+The main guide — 15 pages covering:
+- The Content Repurposing Map (visual framework for extracting 10+ assets from a single source)
+- The 4-step long-form to short-form extraction process
+- Platform-specific formatting rules for Instagram, TikTok, LinkedIn, and Twitter/X
+- The 90-minute execution schedule (minute-by-minute)
+- A weekly content tracker worksheet
+
+### 5 AI Prompt Files
+Ready-to-use prompts in the `prompts/` folder. Copy, fill in the brackets, paste into ChatGPT, Claude, or any AI writing tool:
+
+| File | What It Does |
+|------|-------------|
+| `prompts/caption-prompt.txt` | Generates platform-optimized captions with CTA and hashtags |
+| `prompts/hook-prompt.txt` | Produces 10 different opening hooks using proven techniques |
+| `prompts/carousel-prompt.txt` | Creates a complete 10-slide carousel outline |
+| `prompts/video-script-prompt.txt` | Writes a 30–90 second video script with hook, context, and CTA |
+| `prompts/newsletter-prompt.txt` | Builds a full newsletter including 3 subject line options |
+
+### Sales Page
+`index.html` — the product landing page.
+
+### Hero Video
+`videos/hero_loop.mp4` — cinematic background for the landing page.
 
 ---
 
 ## Pricing
 
-| Product | Price |
-|---------|-------|
-| PDF Guide | $37 |
-| Premium Bundle | $97-149 |
+| Tier | Price | What's Included |
+|------|-------|----------------|
+| Core PDF | $27 | PDF guide + 5 AI prompt files |
+| Premium Bundle | $47 | Everything above + video walkthroughs + bonus carousel template pack |
 
 ---
 
-## AI Prompts Included
+## 3-Step Quick Start
 
-The `prompts/` folder contains ready-to-use AI prompt files for:
+You can start repurposing content in the next 15 minutes.
 
-- `caption-prompt.txt` - Master caption generation prompt
-- `hook-prompt.txt` - Hook rewrite prompt with 10 techniques
-- `carousel-prompt.txt` - Carousel outline generation
-- `video-script-prompt.txt` - Short video script template
-- `newsletter-prompt.txt` - Email newsletter template
+**Step 1: Pick your source content**
+Find one piece of content you've already created: a video, a long caption that performed well, a client email you're proud of, a recent Instagram post, a blog paragraph, a podcast answer. Any single insight or story works. The best source content covers a process, shares a result, tells a story, or makes a strong opinion.
 
----
+**Step 2: Open the PDF and identify your 10 formats**
+On page 3 of the PDF, you'll find the Content Repurposing Map — a visual showing exactly which formats to extract from your source and in what order. Work from most structured (carousel, video script) down to quickest (caption, hook).
 
-## How to Use
+**Step 3: Use the prompts in sequence**
+Open the prompt files in the order listed in `PROMPT-GUIDE.md`. Paste your source content into each prompt, fill in the bracketed fields, and generate your output. Each prompt takes 2–5 minutes to run and produces a platform-ready piece of content.
 
-1. **Download** the PDF and customize it with your branding
-2. **Deploy** the landing page to your website or sales platform
-3. **Add** the hero video to your hosting (MP4 file included)
-4. **Customize** pricing, links, and branding as needed
-5. **Launch** your sales page!
+**Total time for all 10 formats: 60–90 minutes.**
 
 ---
 
-## Created with MiniMax Agent
+## How to Use the Prompts
 
-This product was created using MiniMax Agent - an AI assistant specialized in content creation, digital products, and web development.
+Each prompt file in `prompts/` is a template. Before using it:
 
-**Built by:** MiniMax Agent
+1. Open the file in any text editor (Notepad, VS Code, Google Docs)
+2. Replace all text in `[BRACKETS]` with your specific information
+3. Copy the entire prompt
+4. Paste it into your AI writing tool (ChatGPT, Claude, Gemini, etc.)
+5. Review the output and edit for your voice
+
+See `PROMPT-GUIDE.md` for the complete workflow that ties all 5 prompts into one sequential session.
 
 ---
 
-**Version:** 1.0
-**License:** Personal Use / Commercial Use (with purchase)
+## The Workflow Sequence (Quick Reference)
+
+The prompts are designed to be used in this order during a single 90-minute session:
+
+1. **hook-prompt.txt** — Generate 10 different hooks for your source content. Pick the strongest 2–3. These become the opening lines for everything else.
+2. **caption-prompt.txt** — Write your main social media caption using the best hook.
+3. **carousel-prompt.txt** — Build the 10-slide carousel outline.
+4. **video-script-prompt.txt** — Write the short-form video script.
+5. **newsletter-prompt.txt** — Convert the source into a newsletter issue.
+
+See `PROMPT-GUIDE.md` for detailed usage tips and common mistakes at each step.
+
+---
+
+## Questions?
+
+For implementation questions, contact through the platform where you purchased this product.
